@@ -1,7 +1,10 @@
+.buildpath
+.settings
+.project
+.DS_Store
 classes
 files
 includes
 install
 lib
 locales
-modules
